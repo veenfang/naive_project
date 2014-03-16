@@ -1,0 +1,12 @@
+#ignore object file
+*.o
+
+#ignore tags
+tags
+
+#ignore compression file
+*.zip
+*.rar
+
+#ignore directory
+classify
