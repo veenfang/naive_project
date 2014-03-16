@@ -1,0 +1,12 @@
+1.  reconstruct & modularize the source code
+2.  configuration file
+3.  introductory documents
+4.  analyze results
+
+
+Introduction to each file:
+1.  byteorder.h : deal with bytes order in different platform
+2.  common.h    : change frequency to channel
+3.  ieee80211_radiotap.h  : define some fields of radiotap and its details
+4.  raiotap-parser.h  : define the struct of radiotap
+5.  
